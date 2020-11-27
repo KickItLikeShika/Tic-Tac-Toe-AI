@@ -1,5 +1,5 @@
 # Tic Tac Toe AI
-The user plays Tic Tac Toe game against the computer.  
+The user plays Tic Tac Toe game against the computer. 
 # How it works
     python runner.py
 # Hints
